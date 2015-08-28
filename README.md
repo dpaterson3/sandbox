@@ -6,3 +6,5 @@ This repository is for:
 * Practising Git commands 
 
 This is an edit, as supplied by nedit.
+
+This is another edit, to show differences in a modified file.
